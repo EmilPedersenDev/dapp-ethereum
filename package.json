@@ -1,0 +1,26 @@
+{
+  "name": "dapp-voting",
+  "version": "1.0.0",
+  "description": "A simple test app for a smart contract on a local Ethereum blockchain",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilPedersenDev/dapp-ethereum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilPedersenDev/dapp-ethereum/issues"
+  },
+  "homepage": "https://github.com/EmilPedersenDev/dapp-ethereum#readme"
+}
